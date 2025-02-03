@@ -4,20 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="UoBy4MaZRMWQxSpglumQ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UoBy4MaZRMWQxSpglumQ-1" target="UoBy4MaZRMWQxSpglumQ-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="UoBy4MaZRMWQxSpglumQ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UoBy4MaZRMWQxSpglumQ-1" target="UoBy4MaZRMWQxSpglumQ-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="UoBy4MaZRMWQxSpglumQ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UoBy4MaZRMWQxSpglumQ-1" target="UoBy4MaZRMWQxSpglumQ-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="UoBy4MaZRMWQxSpglumQ-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UoBy4MaZRMWQxSpglumQ-1" target="UoBy4MaZRMWQxSpglumQ-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="UoBy4MaZRMWQxSpglumQ-1" value="Home" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="130" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UoBy4MaZRMWQxSpglumQ-2" value="GameJAM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="280" width="120" height="60" as="geometry" />
@@ -34,8 +22,44 @@
         <mxCell id="UoBy4MaZRMWQxSpglumQ-6" value="PhotoJAM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UoBy4MaZRMWQxSpglumQ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.4;entryY=0.067;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="UoBy4MaZRMWQxSpglumQ-1" target="UoBy4MaZRMWQxSpglumQ-5">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="UoBy4MaZRMWQxSpglumQ-12" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="UoBy4MaZRMWQxSpglumQ-1" target="UoBy4MaZRMWQxSpglumQ-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="410" as="sourcePoint" />
+            <mxPoint x="440" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UoBy4MaZRMWQxSpglumQ-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="UoBy4MaZRMWQxSpglumQ-1" target="UoBy4MaZRMWQxSpglumQ-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="410" as="sourcePoint" />
+            <mxPoint x="440" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UoBy4MaZRMWQxSpglumQ-15" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="UoBy4MaZRMWQxSpglumQ-1" target="UoBy4MaZRMWQxSpglumQ-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="410" as="sourcePoint" />
+            <mxPoint x="440" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UoBy4MaZRMWQxSpglumQ-16" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="UoBy4MaZRMWQxSpglumQ-1" target="UoBy4MaZRMWQxSpglumQ-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="410" as="sourcePoint" />
+            <mxPoint x="440" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UoBy4MaZRMWQxSpglumQ-17" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="UoBy4MaZRMWQxSpglumQ-1" target="UoBy4MaZRMWQxSpglumQ-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="410" as="sourcePoint" />
+            <mxPoint x="440" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UoBy4MaZRMWQxSpglumQ-18" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="UoBy4MaZRMWQxSpglumQ-1" target="UoBy4MaZRMWQxSpglumQ-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="410" as="sourcePoint" />
+            <mxPoint x="440" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UoBy4MaZRMWQxSpglumQ-19" value="&lt;div&gt;Form de &lt;br&gt;&lt;/div&gt;&lt;div&gt;Inscrição&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="80" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
